@@ -1,5 +1,1 @@
-jellyfin/jellyfin
-dezhao/lanraragi_cn
-ubuntu
-oddrationale/docker-shadowsocks
-gogs/gogs
+excalidraw/excalidraw
