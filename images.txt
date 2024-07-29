@@ -1,1 +1,1 @@
-dyrnq/open-webui
+backplane/open-webui:0-ollama
